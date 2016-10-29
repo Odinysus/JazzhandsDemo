@@ -1,17 +1,9 @@
 # JazzHandsDemo
 a demo of JazzHands
 
-1. 简介  
-	Jazz Hand是一个简单的基于keyframe的UIKit动画框架。动画可以通过手势，scrollviews，Kvo或者ReactiveCocoa控制。常见用途:制作一个拖动动画的引导页.以下是我写的一个Demo.
-	![Demo](https://cl.ly/0m1F1B3S1D0a/download/Screen%20Recording%202016-10-29%20at%2010.21%20PM.gif)  
-2. 安装  
-	OC版:  
+---
 
-       pod "JazzHands"
-
-	swift版:  
-
-			pod "RazzleDazzle"
+   ![Demo](https://cl.ly/0m1F1B3S1D0a/download/Screen%20Recording%202016-10-29%20at%2010.21%20PM.gif)  
 
 3.  类图  
   ![jazzhand](https://cl.ly/2U1G2c3o2G3j/download/Class%20Diagram.png)
